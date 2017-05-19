@@ -6,10 +6,10 @@ class Database{
  
    
 	
-    private $host = "swiatrakeikord93.mysql.db";
-    private $db_name = "swiatrakeikord93";
-    private $username = "swiatrakeikord93";
-    private $password = "Kordzik123";
+    private $host = "aaa";
+    private $db_name = "aaaa";
+    private $username = "aaaa";
+    private $password = "aaaa";
     public $conn;
  
     // get the database connection
