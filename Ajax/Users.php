@@ -7,7 +7,7 @@ class Userss
 {
     
 	private $conn;
-    private $tableName = "yr";
+    private $tableName = "tesadasdsdast";
  
 	
  
