@@ -3,11 +3,11 @@ namespace Ajax;
 use \PDO;
 
 
-class Users
+class Userss
 {
     
 	private $conn;
-    private $tableName = "test";
+    private $tableName = "tesadasdsdast";
  
 	
  
