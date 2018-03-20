@@ -10,7 +10,7 @@ class Userss
     private $tableName = "tesadasdsdast";
  
 	
- test= pierwszy commit
+ 
    
   test2= drugi commit
 
