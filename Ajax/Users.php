@@ -12,7 +12,7 @@ class Userss
 	
  test= pierwszy commit
    
- 
+  test2= drugi commit
 
     public function __construct()
     {
