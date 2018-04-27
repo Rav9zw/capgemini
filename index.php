@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
 	<meta charset="utf-8">
-	<title>Zadanie capgemini zmienione na branchu new test</title>
+	<title>Zadanie capgemini zmienione na branchu new test anuloawnie</title>
 
 	
   <!-- datatables -->	
